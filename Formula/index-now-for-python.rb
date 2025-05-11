@@ -1,4 +1,4 @@
-class TimerForPython < Formula
+class IndexNowForPython < Formula
   include Language::Python::Virtualenv
 
   desc "Makes it easy to submit URLs to the IndexNow API of various search engines"
