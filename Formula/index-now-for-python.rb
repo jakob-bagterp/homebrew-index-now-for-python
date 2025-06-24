@@ -7,7 +7,7 @@ class IndexNowForPython < Formula
   sha256 "a7bfa295a24baff1aca04d457dd85895d288bae291997d6212fbc0e2d6dd36d8"
   license "MIT"
 
-  depends_on "python@3.10"
+  depends_on "python@3.11"
 
   def install
     virtualenv_install_with_resources
