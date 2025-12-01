@@ -3,8 +3,8 @@ class IndexNowForPython < Formula
 
   desc "Makes it easy to submit URLs to the IndexNow API of various search engines"
   homepage "https://github.com/jakob-bagterp/index-now-for-python"
-  url "https://github.com/jakob-bagterp/index-now-for-python/releases/download/v1.0.9/index_now_for_python-1.0.9.tar.gz"
-  sha256 "57da446bb08c124088c92d88f6c24d9779400c60e80eda9713de842d6b256a20"
+  url "https://github.com/jakob-bagterp/index-now-for-python/releases/download/v1.0.10/index_now_for_python-1.0.10.tar.gz"
+  sha256 "2f2f169eb2f2db7201024d002937d298f0380998c99936c31a43d5fc463ffc57"
   license "MIT"
 
   depends_on "python@3.11"
